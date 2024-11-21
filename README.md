@@ -8,5 +8,6 @@ Neste repositório você encontrará material de estudo, relacionado às discipl
 1. LIMITES
 2. DERIVADAS
 3.  INTEGRAIS
+4. [SEQUENCIAS E SÉRIES](https://github.com/walaceelias/sequences_series)
 
 ## 2. MATERIAL SOBRE FÍSICA NO ENSINO SUPERIOR
